@@ -22,5 +22,7 @@ Excutar playbook Ansible:
 
 na pasta ansible executar ./run-ansible.sh
 
+![aws](https://user-images.githubusercontent.com/6663107/106332425-8fe06980-6265-11eb-9b6f-b0b760159274.jpg)
+
 
 
