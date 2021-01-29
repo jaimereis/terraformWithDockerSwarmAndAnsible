@@ -11,7 +11,7 @@ wget https://releases.hashicorp.com/terraform/0.12.24/terraform_0.12.24_linux_am
 <br><br>
 Comandos Terraform para executar a infra:
 https://www.terraform.io/
-terraform init <br>
+<br>terraform init <br>
 terraform plan <br>
 terraform apply <br>
 <br><br>
