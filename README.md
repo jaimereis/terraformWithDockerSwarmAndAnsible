@@ -20,7 +20,7 @@ terraform destroy
 
 Excutar playbook Ansible:
 
-na pasta ansible executar ./run
+na pasta ansible executar ./run-ansible.sh
 
 
 
